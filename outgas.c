@@ -1,10 +1,9 @@
 /**
  * @file    outgas.c
- * @brief   Add outgassing forces
+ * @brief   Add outgassing forces, based on Kramer & Laüter 2019, see https://www.aanda.org/articles/aa/full_html/2019/10/aa35229-19/aa35229-19.html
  * @author  Rainer Marquardt-Demen
  * 
  * @section     LICENSE
- *
  *
  * This file is part of reboundx.
  *
